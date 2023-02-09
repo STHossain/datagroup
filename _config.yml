@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ECO-204 course webpage
-description: Course Webpage for ECO204 at EWU
+title: Data Science Seminar Page
+description: This page includes the plan for the seminar meetings where we talk about Statistics, R, Data Science and other stuffs. 
 baseurl:  # the subpath of your site, e.g. /blog
-url: "https://sthossain.github.io/ewueco204" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sthossain.github.io/datagroup" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 

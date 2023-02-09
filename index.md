@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Welcome and Outline
+title: Welcome and Meeting Details
 nav_order: 1
-description: "Course Webpage - ECO204"
+description: "Seminar page for our data science group"
 permalink: /
 has_toc: true
 ---
 
 
 
-# Welcome to the course webpage of ECO 204
+# Welcome to the seminar webpage for our data science group
 {: .fs-9 }
 
 
@@ -32,9 +32,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 **Assalamualaikum** everyone,
 
-Thanks for taking the course *Statistics for Business and Economics - II*. As you already know this is the second course in the sequence of two statistics courses offered for the Business and Economics majors at EWU. In the previous course (*Statistics for Business and Economics - I*), you were introduced to the basic probability theory and some descriptive statistics (some of you have probably also seen some sampling!). In this course we take your statistics journey to the next level and we will dive into the world of Statistics.
-
-Now Statistics is fun! 
+Thanks for attending the group and the seminar meetings 
 
 
 
