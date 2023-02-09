@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lectures
+title: Session Topics
 nav_order: 2
 ---

@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Lab Materials
+title: Joining the Seminar
 nav_order: 4
 ---

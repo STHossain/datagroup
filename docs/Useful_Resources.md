@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Problem Sets
+title: Useful Resources
 nav_order: 3
 ---

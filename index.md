@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome and Meeting Details
+title: Welcome
 nav_order: 1
 description: "Seminar page for our data science group"
 permalink: /
@@ -11,7 +11,6 @@ has_toc: true
 
 # Welcome to the seminar webpage for our data science group
 {: .fs-9 }
-
 
 {: .text-right }
 <button class="btn js-toggle-dark-mode">Dark color mode</button>
@@ -30,13 +29,17 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 });
 </script>
 
-**Assalamualaikum** everyone,
 
-Thanks for attending the group and the seminar meetings 
-
+<img src="/docs/images/nets.jpg"  width="600" height="300"  alt="placeholder image" class="img-fluid" >
 
 
-![MarineGEO circle logo](/docs/images/LostStudents.png)
+
+*Photo by [JJ Ying](https://unsplash.com/@jjying) on [Unsplash](https://unsplash.com/photos/8bghKxNU1j0)*
+
+
+
+**Assalamualaikum**, thanks for dropping by, this is the webpage for our data science group seminar. We are a group of entusiastic students, mostly located in Bangladesh learning Statistics, Econometrics, Machine Learning, Programming, Data Science, R, Python, and .... To see the list of topics we are covering please check 
+
 
 
 {: .important }
@@ -54,3 +57,4 @@ Here is the course outline
 
 ## Getting started
 
+[^1]: This is one of his works available freely on
