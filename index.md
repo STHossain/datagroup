@@ -9,7 +9,7 @@ has_toc: true
 
 
 
-# Welcome to the seminar webpage for our data science group
+# Welcome to the online data science seminar page
 {: .fs-9 }
 
 {: .text-right }
@@ -30,7 +30,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 </script>
 
 
-<img src="/docs/images/nets.jpg"  width="600" height="300"  alt="placeholder image" class="img-fluid" >
+<img src="/docs/images/nets.jpg"  width="600" height="300" >
 
 
 
@@ -38,23 +38,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 
 
-**Assalamualaikum**, thanks for dropping by, this is the webpage for our data science group seminar. We are a group of entusiastic students, mostly located in Bangladesh learning Statistics, Econometrics, Machine Learning, Programming, Data Science, R, Python, and .... To see the list of topics we are covering please check 
+Thanks for dropping by, this is the webpage for our data science group. We are a group of entusiastic students / academics, coming from different backgrounds, mostly located in Bangladesh learning Statistics, Econometrics, Machine Learning, Programming, Data Science, R, Python, and ...... Once a week we sit online and talk about different things. You can join us if you are interested. This group does not have any official association with any university, and our seminars are completely free of cost. To see the discussion topics in detail you can check [Session Topics]({% link docs/Session_Topics.md %}) page. To join the group please check the page [Joining the seminar]({% link docs/Joining.md %}). 
 
 
 
-{: .important }
-**Class timings:** Mondays and Wednesdays 10.10 - 11.40 AM  <br>
-**Room:** 113  <br>
-**Insructors email:** tanvir.hossain@ewubd.edu <br>
-**Office hours:** Sundays 11.00 AM - 1:00 PM
-
-
-
-
-Here is the course outline
-
-[here](https://raw.githubusercontent.com/STHossain/ewueco204/main/docs/outline/Eco204_outline.pdf)
-
-## Getting started
-
-[^1]: This is one of his works available freely on
