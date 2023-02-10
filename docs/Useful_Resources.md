@@ -22,7 +22,7 @@ Following books are not free but they are excellent resources
 
 # Nice online courses
 
-* [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), offered by JHU at coursera.
+* [The Data Scientist’s Toolbox](https://www.coursera.org/learn/data-scientists-tools), offered by JHU at coursera. There is also a [Youtube Playlist](https://youtube.com/playlist?list=PLmTpraKlPXDSPbP2L8MYZoweGSzi9gNTr) for this course. But the recording i 7 years old. I think the contents are more or less same. The instructor is [Dr. Jeff Leek](https://jtleek.com/).
 * [R Programming](https://www.coursera.org/learn/r-programming), offered by JHU at coursera.
 * [R Programming Fundamentals](https://learning.edx.org/course/course-v1:StanfordOnline+XFDS112+2T2020/home), offered by Stanford at edx.      
 * [Statistical Learning](https://youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e), freely available at Standford Online youtube channel. The course is also available at edx.
