@@ -30,6 +30,6 @@ Following books are not free but they are excellent resources
    * Youtube Playlists - [week1](https://www.youtube.com/playlist?list=PLjTlxb-wKvXNSDfcKPFH2gzHGyjpeCZmJ), [week2](https://www.youtube.com/playlist?list=PLjTlxb-wKvXNnjUTX4C8IeIhPBjPkng6B), [week3](https://www.youtube.com/playlist?list=PLjTlxb-wKvXOzI2h0F2_rYZHIXz8GWBop), [week4](https://www.youtube.com/playlist?list=PLjTlxb-wKvXOdzysAE6qrEBN_aSBC0LZS)
 * **R Programming Fundamentals**, offered by Stanford University at edx.   
     * [edx link](https://learning.edx.org/course/course-v1:StanfordOnline+XFDS112+2T2020/home)   
-* **Statistical Learning**, offered by Standford University at edx. The exactly same videos are also available also on Youtube.
+* **Statistical Learning**, offered by Stanford University at edx. The exactly same videos are also available also on Youtube.
   * [edx link](https://www.edx.org/course/statistical-learning)
   * [Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e) 
