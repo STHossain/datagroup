@@ -38,7 +38,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
 
 
 
-Thanks for dropping by, this is the webpage for our data science group. We are a group of entusiastic students / academics, coming from different backgrounds, mostly located in Bangladesh learning Statistics, Econometrics, Machine Learning, Programming, Data Science, R, Python, and ...... Once a week we sit online and talk about different things. You can join us if you are interested. This group does not have any official association with any university, and our seminars are completely free of cost. To see the discussion topics in detail you can check [Session Topics]({% link docs/Session_Topics.md %}) page. To join the group please check the page [Joining the seminar]({% link docs/Joining.md %}). 
+Thanks for dropping by, this is the webpage for our data science group. We are a group of enthusiastic students / academics, coming from different backgrounds, mostly located in Bangladesh learning Statistics, Econometrics, Machine Learning, Programming, Data Science, R, Python, and ...... Once a week we sit online and talk about different things. You can join us if you are interested. This group does not have any official association with any university, and our seminars are completely free of cost. To see the discussion topics in detail you can check [Session Topics]({% link docs/Session_Topics.md %}) page. To join the group please check the page [Joining the seminar]({% link docs/Joining.md %}). 
 
 
 
