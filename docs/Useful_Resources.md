@@ -32,4 +32,5 @@ Following books are not free but they are excellent resources
     * [edx link](https://learning.edx.org/course/course-v1:StanfordOnline+XFDS112+2T2020/home)   
 * **Statistical Learning**, offered by Stanford University at edx. The exactly same videos are also available also on Youtube.
   * [edx link](https://www.edx.org/course/statistical-learning)
+  * [Boook Web site](https://www.statlearning.com/resources-second-edition), this site has data sets, R codes and other stuffs. 
   * [Youtube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e) 
